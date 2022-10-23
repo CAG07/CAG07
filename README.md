@@ -6,7 +6,7 @@ I'm Craig and I work as a Systems Engineer at [Bounteous](https://www.bounteous.
 
 - 🔭 I’m currently working on using FOSS tools with Docker
 - 🌱 I’m currently learning [Python Essential Training](https://github.com/LinkedInLearning/python-essential-training-2449125) by Ryan Mitchell
-- 👯 I’m looking to collaborate on Hacktoberfest 2022 projects
+- 👯 I’m looking to collaborate on [Godot](https://github.com/godotengine/godot) projects
 - 📝 Favorite editor: VS Code
 - 💻 First computer: [Atari XE](https://en.wikipedia.org/wiki/Atari_8-bit_family)
 
