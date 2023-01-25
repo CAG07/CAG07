@@ -2,7 +2,7 @@
 ---
 
 ### Hello! 👋🏻
-I'm Craig and I work as a Systems Engineer at [Bounteous](https://www.bounteous.com/). 
+I'm Craig and I work as a Systems Engineer at [Bounteous](https://bounteous.com/). 
 
 - 🔭 I’m currently working on using FOSS tools with Docker
 - 🌱 I’m currently learning [Drupal](https://github.com/drupal/drupal)
