@@ -5,10 +5,9 @@
 I'm Craig and I work as a Systems Engineer at [Bounteous](https://bounteous.com/). 
 
 - 🔭 I’m currently working on using FOSS tools with Docker and Podman
-- 🌱 I’m currently learning [Podman](https://github.com/containers/podman/)
+- 🌱 I’m currently learning [Karpenter](https://github.com/aws/karpenter)
 - 👯 I’m looking to collaborate on [Godot](https://github.com/godotengine/godot) projects
 - 📝 Favorite editor: VS Code
-- 💻 First computer: [Atari XE](https://en.wikipedia.org/wiki/Atari_8-bit_family)
 
 
 ---
