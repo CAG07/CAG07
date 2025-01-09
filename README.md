@@ -4,8 +4,8 @@
 ### Hello! 👋🏻
 I'm Craig and I work as a Senior Systems Engineer at [CrowdStrike]([(https://www.crowdstrike.com/]). 
 
-- 🔭 I’m currently working on recreating [Missile Command]([https://github.com/CAG07/missile-command]) in Python
-- 🌱 I’m currently learning [FalconPy]([https://github.com/CrowdStrike/falconpy])
+- 🔭 I’m currently working on recreating [Missile Command](https://github.com/CAG07/missile-command) in Python
+- 🌱 I’m currently learning [FalconPy](https://github.com/CrowdStrike/falconpy)
 - 👯 I’m looking to collaborate on [Godot](https://github.com/godotengine/godot) projects
 - 📝 Favorite editor: VS Code
 
