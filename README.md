@@ -2,10 +2,10 @@
 ---
 
 ### Hello! 👋🏻
-I'm Craig and I work as a Systems Engineer at [Bounteous](https://bounteous.com/). 
+I'm Craig and I work as a Senior Systems Engineer at [CrowdStrike]([(https://www.crowdstrike.com/]). 
 
-- 🔭 I’m currently working on using FOSS tools with Docker and Podman
-- 🌱 I’m currently learning [Karpenter](https://github.com/aws/karpenter)
+- 🔭 I’m currently working on recreating [Missile Command]([https://github.com/CAG07/missile-command]) in Python
+- 🌱 I’m currently learning [FalconPy]([https://github.com/CrowdStrike/falconpy])
 - 👯 I’m looking to collaborate on [Godot](https://github.com/godotengine/godot) projects
 - 📝 Favorite editor: VS Code
 
